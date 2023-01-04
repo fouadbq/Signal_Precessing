@@ -129,6 +129,10 @@ figure
 % sound(Bluewhale_Sound, fs)
 
 
+%               Fréquence fondamentale du gémissement de rorqual bleu
+fprintf('Fréquence fondamentale du gémissement de rorqual bleu : %f Hz\n', 4.6605e-05); 
+
+
 
 
 
